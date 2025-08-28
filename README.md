@@ -106,12 +106,6 @@ Feel free to contribute to this project by:
 
 This project is open source and available under the MIT License.
 
-## 👨‍💻 Author
-
-**Your Name** - *Bhashit Maheshwari*
-
-This is an independent project developed for educational and analytical purposes. The dashboard provides insights into urban noise pollution patterns across Indian cities.
-
 ## 🙏 Acknowledgments
 
 - Data visualization powered by Plotly and Streamlit
