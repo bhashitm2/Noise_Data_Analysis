@@ -1,6 +1,6 @@
 # 🔊 Urban Noise Pollution Monitoring Dashboard
 
-(Live Project)[https://noise-data-analysis-qwertyui.streamlit.app/]
+[Live Project](https://noise-data-analysis-qwertyui.streamlit.app/)
 
 An interactive Streamlit dashboard for analyzing noise pollution levels across major Indian cities.
 
